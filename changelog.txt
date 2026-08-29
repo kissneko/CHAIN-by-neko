@@ -1,0 +1,11 @@
+Added/Fixed:
+Version tracking.
+Changelog.
+Teleportation menu.
+Automatic dodge.
+Auto QTE improvements.
+Highlight configuration.
+Display of session time.
+Coming soon:
+Release of blueprints.
+:3
