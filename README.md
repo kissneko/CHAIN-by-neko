@@ -11,7 +11,7 @@ A highly optimized, professional open-source exploit script hub tailored specifi
 To execute the script in your injector (Potassium, Xeno, Wave, etc.), copy and run the following standalone remote loader:
 
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kissneko/CHAIN-by-neko/refs/heads/main/chainscript.lua"))()
 ```
 
 ---
