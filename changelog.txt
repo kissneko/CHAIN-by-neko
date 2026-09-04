@@ -1,3 +1,13 @@
+[V 1.2.0-Stable]
+More optimization! XD
+No fog.
+Fullbright.
+Toggle QTE notifications.
+QTE Customization.
+Inf XSaw (not work QTE).
+Unlocking blueprints.
+Tween teleport toggle.
+[V 1.1.0-BETA]
 Added/Fixed:
 Version tracking.
 Changelog.
@@ -7,5 +17,5 @@ Auto QTE improvements.
 Highlight configuration.
 Display of session time.
 Coming soon:
-Release of blueprints.
+Unlocking blueprints
 :3
