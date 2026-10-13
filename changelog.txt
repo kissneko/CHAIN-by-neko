@@ -1,3 +1,7 @@
+[V 1.4.0-Hollow]
+Disabled crucifix abuse. (patched)
+Recoded auto QTE logic. (no token)
+Added new setting.
 [V 1.3.2-Femboy]
 Added server info.
 Added server hop.
